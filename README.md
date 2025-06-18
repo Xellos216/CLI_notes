@@ -1,5 +1,3 @@
----
-
 ## ✅ `GUIDE.md`: Mini Project GuideLine (CLI 기반 학습 노트 관리 도구)
 
 ```markdown
@@ -114,5 +112,3 @@ learning-note-cli-tool/
 └── GUIDE.md ← 이 파일
 
 ```
-
----
