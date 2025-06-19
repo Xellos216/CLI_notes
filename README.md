@@ -1,4 +1,4 @@
-## ✅ `GUIDE.md`: Mini Project GuideLine (CLI 기반 학습 노트 관리 도구)
+#### Mini Project GuideLine (CLI 기반 학습 노트 관리 도구) ####
 
 ```markdown
 # 🛠️ CLI 기반 학습 노트 관리 및 요약 도구 - 프로젝트 가이드라인
@@ -94,9 +94,7 @@
 
 ## 🗂️ 프로젝트 디렉토리 구조 예시
 
-```
-
-learning-note-cli-tool/
+```learning-note-cli-tool/
 ├── scripts/
 │   ├── load\_env.sh
 │   ├── create\_note.sh
@@ -110,5 +108,4 @@ learning-note-cli-tool/
 ├── Dockerfile
 ├── README.md
 └── GUIDE.md ← 이 파일
-
 ```
